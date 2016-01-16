@@ -1,0 +1,3 @@
+[submodule "chinookdatabase"]
+	path = chinookdatabase
+	url = https://git01.codeplex.com/chinookdatabase

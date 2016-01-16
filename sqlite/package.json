@@ -1,0 +1,11 @@
+{
+  "name": "chinook-sqlite",
+  "version": "0.0.0",
+  "description": "The Chinook database in SQLite format, ready for use in a node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
